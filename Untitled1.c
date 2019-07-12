@@ -1,6 +1,7 @@
 #include <stdio.h>
 int  getline(char c[], int max);
 void print (char c[], int len);
+
 int main ()
 {
     char c[1000];
